@@ -1,0 +1,32 @@
+variable "resource_group_name" {}
+variable "location" {}
+variable "subscription_id" {}
+variable "tenant_id" {}
+variable "vnet_name" {}
+variable "subnet_name" {}
+variable "nsg_name_chroma" {}
+variable "nsg_name_vmss" {}
+variable "public_ip_name" {}
+variable "vm_name" {}
+variable "vm_size" {}
+variable "disk_name" {}
+variable "disk_size_gb" {type = number}
+variable "nic_name" {}
+variable "azure_storage_account_name" {}
+variable "github_token" {}
+variable "repo_url" {}
+variable "openai_api_key" {}
+variable "db_name" {}
+variable "db_user" {}
+variable "db_password" {}
+variable "db_port" {}
+variable "azure_storage_container" {}
+variable "chromadb_host" {}
+variable "chromadb_port" {}
+variable "directory"{}
+variable "ssh_dir" {}
+variable "host_name" {}                           
+variable "vmss_name" {} 
+variable "public_ip_name_appgw" {}
+variable "subnet_name_appgw" {}
+variable "key_vault_name" {}

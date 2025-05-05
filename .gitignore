@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+sda_key.pem
+storageacc.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+.terraform.tfstate.lock.info
