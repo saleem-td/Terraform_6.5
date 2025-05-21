@@ -24,7 +24,7 @@ This project demonstrates the deployment of a scalable, secure, and modular AI c
 - **Azure VPN Gateway** for secure SSH (private IP only)
 - **GitHub Actions** for CI/CD automation
 
-![Architecture Diagram](./assets/St-6.5.png) *(Add your own diagram if available)*
+![Architecture Diagram](./assets/St-6.5.png) 
 
 ## 🔧 Technologies Used
 
