@@ -24,7 +24,7 @@ This project demonstrates the deployment of a scalable, secure, and modular AI c
 - **Azure VPN Gateway** for secure SSH (private IP only)
 - **GitHub Actions** for CI/CD automation
 
-![Architecture Diagram](./assets/architecture-diagram.png) *(Add your own diagram if available)*
+![Architecture Diagram](./assets/St-6.5.png) *(Add your own diagram if available)*
 
 ## 🔧 Technologies Used
 
@@ -49,5 +49,5 @@ This project demonstrates the deployment of a scalable, secure, and modular AI c
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/saleem-td/Terraform_6.5.git
+   cd Terraform_6.5
