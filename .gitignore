@@ -8,3 +8,4 @@ terraform.tfstate.backup
 .terraform.lock.hcl
 terraform.tfvars
 .terraform.tfstate.lock.info
+README.md
